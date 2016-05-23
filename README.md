@@ -18,7 +18,7 @@ It will also provide dry run mode, in which treetrunks will print exactly the
 same output how it will print in real delete mode, but will not delete any
 files.
 
-# Usage:
+# Usage
 
 ```
 treetrunks will search target directory for the files and directories that are

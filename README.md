@@ -3,7 +3,7 @@
 <img
     src="http://pre01.deviantart.net/3e9d/th/pre/f/2013/143/3/3/tree_trunks___adventure_time_by_nanaruko-d66cx4s.jpg"
     align="left"
-    width="100px"
+    width="200px"
 />
 
 Little tool, that will remove all files and directories from specified
